@@ -12,6 +12,9 @@ class Program
 {
     static void Main()
     {
-
+        string[] names = { "Nikolaj", "Thomas", "Adrian" };
+        names[2] = "Johnny";
+        Console.WriteLine("Second element: {0}", names[1]);
+        Console.Write("Last element: {0}", names.Last());
     }
 }

@@ -11,6 +11,6 @@ class Program
 {
     static void Main()
     {
-
+        string name = "Nikolaj \nLübker";
     }
 }

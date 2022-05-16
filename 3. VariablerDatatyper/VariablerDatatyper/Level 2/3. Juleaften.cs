@@ -14,6 +14,10 @@ class Program
 {
     static void Main()
     {
+        DateTime dateOnly = new DateTime(DateTime.Now.Year, 12, 24);
+        DateTime currentDate = DateTime.Now;
 
+        int result = (dateOnly - currentDate).Days;
+        Console.WriteLine("{0} days until christmas!", result);
     }
 }

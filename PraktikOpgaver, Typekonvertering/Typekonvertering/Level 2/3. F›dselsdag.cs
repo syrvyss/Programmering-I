@@ -11,6 +11,10 @@ class Program
 {
     static void Main()
     {
+        DateTime dateOnly = new DateTime(DateTime.Now.Year, 2, 1);
+        DateTime currentDate = DateTime.Now;
 
+        int result = (currentDate - dateOnly).Days;
+        Console.WriteLine("{0} days until birthday!", result);
     }
 }

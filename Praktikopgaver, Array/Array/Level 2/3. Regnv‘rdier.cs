@@ -27,7 +27,19 @@ class Regnværdier
 {
     static void Main(string[] args)
     {
+        // Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+        double[,] rain = { 
+            {0, 12.5, 0, 0, 0, 0, 0}, 
+            {0, 0, 2.3, 0, 0, 0, 0}, 
+            {0, 0, 0, 4.7, 0, 0, 0}, 
+            {0, 0, 0, 0, 17.3, 0, 0} 
+        };
 
+        rain[0, 0] = 22.5;
+        rain[1, 2] = 1.3;
+        rain[1, 5] = 3.2;
+        rain[2, 6] = 5.7;
+        rain[3, 3] = 7.3;
     }
 }
 

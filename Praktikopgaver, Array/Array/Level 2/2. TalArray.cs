@@ -12,8 +12,8 @@ class Program
 {
     static void Main()
     {
-
+        double[] numbers = { 9, 5, 10 };
+        numbers[0] = 3.14;
+        Console.WriteLine("First element: {0}", numbers[0]);
     }
 }
-
-

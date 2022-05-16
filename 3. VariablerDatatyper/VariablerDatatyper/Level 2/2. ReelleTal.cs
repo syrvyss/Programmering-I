@@ -11,6 +11,12 @@ class Program
 {
     static void Main()
     {
+        float num1 = 3.14159265358979323846264338327950F;
+        double num2 = 3.14159265358979323846264338327950;
+        decimal num3 = 3.14159265358979323846264338327950M;
 
+        Console.WriteLine(num1);
+        Console.WriteLine(num2);
+        Console.WriteLine(num3);
     }
 }

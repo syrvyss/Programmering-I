@@ -12,5 +12,10 @@ class Program
 {
     static void Main()
     {
+        Console.Write("Write your montly wage: ");
+        double monthWage = double.Parse(Console.ReadLine());
+
+        double result = ((monthWage * 12) * 0.67);
+        Console.WriteLine("{0:C2}", result);
     }
 }

@@ -11,6 +11,8 @@ class Program
 {
     static void Main()
     {
-
+        char a = 'a';
+        int result = a;
+        Console.WriteLine(result); // First value of unicode, (result % 32) to get a usable number.
     }
 }
