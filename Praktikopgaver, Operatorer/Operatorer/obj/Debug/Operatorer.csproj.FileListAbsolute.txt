@@ -1,0 +1,7 @@
+G:\Kurser\Grundlæggende programmering\6. Operatorer\Attachments\Operatorer\Operatorer\bin\Debug\Operatorer.exe
+G:\Kurser\Grundlæggende programmering\6. Operatorer\Attachments\Operatorer\Operatorer\bin\Debug\Operatorer.pdb
+G:\Kurser\Grundlæggende programmering\6. Operatorer\Attachments\Operatorer\Operatorer\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\6. Operatorer\Attachments\Operatorer\Operatorer\obj\Debug\Operatorer.exe
+G:\Kurser\Grundlæggende programmering\6. Operatorer\Attachments\Operatorer\Operatorer\obj\Debug\Operatorer.pdb
+H:\Kurser\E-learningKurser\Grundlæggende programmering\6. Operatorer\Attachments\Praktikopgaver, Operatorer\Operatorer\obj\Debug\Operatorer.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\6. Operatorer\Attachments\Praktikopgaver, Operatorer\Operatorer\obj\Debug\Operatorer.pdb

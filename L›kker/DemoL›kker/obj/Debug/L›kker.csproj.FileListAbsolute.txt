@@ -1,0 +1,5 @@
+G:\Kurser\Grundlæggende programmering\8. Løkker\Attachments\Løkker\Løkker\bin\Debug\Løkker.exe
+G:\Kurser\Grundlæggende programmering\8. Løkker\Attachments\Løkker\Løkker\bin\Debug\Løkker.pdb
+G:\Kurser\Grundlæggende programmering\8. Løkker\Attachments\Løkker\Løkker\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\8. Løkker\Attachments\Løkker\Løkker\obj\Debug\Løkker.exe
+G:\Kurser\Grundlæggende programmering\8. Løkker\Attachments\Løkker\Løkker\obj\Debug\Løkker.pdb

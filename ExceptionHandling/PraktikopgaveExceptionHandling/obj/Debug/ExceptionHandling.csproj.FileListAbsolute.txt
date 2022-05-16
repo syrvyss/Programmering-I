@@ -1,0 +1,12 @@
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\ExceptionHandling\ExceptionHandling\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+G:\Kurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\obj\Debug\ResolveAssemblyReference.cache
+H:\Kurser\E-learningKurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\13. Exception Handling\Attachments\Praktikopgaver, ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

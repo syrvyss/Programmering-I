@@ -1,0 +1,5 @@
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\5. Metoder\Metoder\obj\Debug\Metoder.exe
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\5. Metoder\Metoder\obj\Debug\Metoder.pdb
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\5. Metoder\Metoder\bin\Debug\Metoder.exe
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\5. Metoder\Metoder\bin\Debug\Metoder.pdb
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\5. Metoder\Metoder\obj\Debug\ResolveAssemblyReference.cache

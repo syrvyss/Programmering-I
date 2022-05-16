@@ -1,0 +1,12 @@
+d:\Desktop\H1_Praktikopgaver_NyVersion\8. Nedarv\Nedarv\obj\Debug\ResolveAssemblyReference.cache
+d:\Desktop\H1_Praktikopgaver_NyVersion\8. Nedarv\Nedarv\bin\Debug\Nedarv.exe
+d:\Desktop\H1_Praktikopgaver_NyVersion\8. Nedarv\Nedarv\bin\Debug\Nedarv.pdb
+d:\Desktop\H1_Praktikopgaver_NyVersion\8. Nedarv\Nedarv\obj\Debug\Nedarv.exe
+d:\Desktop\H1_Praktikopgaver_NyVersion\8. Nedarv\Nedarv\obj\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\obj\Debug\Nedarv.exe
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\obj\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\bin\Debug\Nedarv.exe
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\bin\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\obj\Debug\ResolveAssemblyReference.cache
+H:\Kurser\E-learningKurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\obj\Debug\Nedarv.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\12. Nedarv\Attachments\PraktikOpgaver, Nedarv\Nedarv\obj\Debug\Nedarv.pdb

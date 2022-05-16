@@ -1,0 +1,5 @@
+bin\Debug\Klasser.exe
+bin\Debug\Klasser.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Klasser.exe
+obj\Debug\Klasser.pdb

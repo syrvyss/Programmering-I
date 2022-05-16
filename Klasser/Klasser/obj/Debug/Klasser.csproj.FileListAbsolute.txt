@@ -1,0 +1,13 @@
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\6. Klasser\Klasser\obj\Debug\Klasser.exe
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\6. Klasser\Klasser\obj\Debug\Klasser.pdb
+d:\Desktop\H1_Praktikopgaver_NyVersion\6. Klasser\Klasser\obj\Debug\Klasser.exe
+d:\Desktop\H1_Praktikopgaver_NyVersion\6. Klasser\Klasser\obj\Debug\Klasser.pdb
+H:\Arbejde\H1\Grundlæggende programmering med C#\Praktikopgaver\6. Klasser\Klasser\obj\Debug\Klasser.exe
+H:\Arbejde\H1\Grundlæggende programmering med C#\Praktikopgaver\6. Klasser\Klasser\obj\Debug\Klasser.pdb
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\obj\Debug\Klasser.exe
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\obj\Debug\Klasser.pdb
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\bin\Debug\Klasser.exe
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\bin\Debug\Klasser.pdb
+H:\Kurser\E-learningKurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\obj\Debug\Klasser.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\10. Klasser\Attachments\Praktik, klasser\Klasser\obj\Debug\Klasser.pdb

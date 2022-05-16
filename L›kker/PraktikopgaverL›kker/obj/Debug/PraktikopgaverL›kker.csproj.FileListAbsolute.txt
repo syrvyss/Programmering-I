@@ -1,0 +1,6 @@
+C:\Users\Egon Rasmussen\Source\Repos\Løkker\PraktikopgaverLøkker\bin\Debug\Løkker.exe.config
+C:\Users\Egon Rasmussen\Source\Repos\Løkker\PraktikopgaverLøkker\bin\Debug\Løkker.exe
+C:\Users\Egon Rasmussen\Source\Repos\Løkker\PraktikopgaverLøkker\bin\Debug\Løkker.pdb
+C:\Users\Egon Rasmussen\Source\Repos\Løkker\PraktikopgaverLøkker\obj\Debug\PraktikopgaverLøkker.csproj.CoreCompileInputs.cache
+C:\Users\Egon Rasmussen\Source\Repos\Løkker\PraktikopgaverLøkker\obj\Debug\Løkker.exe
+C:\Users\Egon Rasmussen\Source\Repos\Løkker\PraktikopgaverLøkker\obj\Debug\Løkker.pdb

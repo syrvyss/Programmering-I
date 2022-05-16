@@ -1,0 +1,5 @@
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Demokode, klasser\Klasser\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Demokode, klasser\Klasser\bin\Debug\Klasser.exe
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Demokode, klasser\Klasser\bin\Debug\Klasser.pdb
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Demokode, klasser\Klasser\obj\Debug\Klasser.exe
+G:\Kurser\Grundlæggende programmering\10. Klasser\Attachments\Demokode, klasser\Klasser\obj\Debug\Klasser.pdb

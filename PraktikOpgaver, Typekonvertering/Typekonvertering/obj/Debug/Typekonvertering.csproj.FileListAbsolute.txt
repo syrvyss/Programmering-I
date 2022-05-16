@@ -1,0 +1,10 @@
+G:\Kurser\Grundlæggende programmering\4. Typekonvertering\Attachments\Typekonvertering\Typekonvertering\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\4. Typekonvertering\Attachments\Typekonvertering\Typekonvertering\bin\Debug\Typekonvertering.exe
+G:\Kurser\Grundlæggende programmering\4. Typekonvertering\Attachments\Typekonvertering\Typekonvertering\bin\Debug\Typekonvertering.pdb
+G:\Kurser\Grundlæggende programmering\4. Typekonvertering\Attachments\Typekonvertering\Typekonvertering\obj\Debug\Typekonvertering.exe
+G:\Kurser\Grundlæggende programmering\4. Typekonvertering\Attachments\Typekonvertering\Typekonvertering\obj\Debug\Typekonvertering.pdb
+H:\Kurser\E-learningKurser\Grundlæggende programmering\4. Typekonvertering\Attachments\PraktikOpgaver, Typekonvertering\Typekonvertering\obj\Debug\Typekonvertering.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\4. Typekonvertering\Attachments\PraktikOpgaver, Typekonvertering\Typekonvertering\obj\Debug\Typekonvertering.pdb
+H:\Kurser\E-learningKurser\Grundlæggende programmering\4. Typekonvertering\Attachments\PraktikOpgaver, Typekonvertering\Typekonvertering\bin\Debug\Typekonvertering.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\4. Typekonvertering\Attachments\PraktikOpgaver, Typekonvertering\Typekonvertering\bin\Debug\Typekonvertering.pdb
+H:\Kurser\E-learningKurser\Grundlæggende programmering\4. Typekonvertering\Attachments\PraktikOpgaver, Typekonvertering\Typekonvertering\obj\Debug\Typekonvertering.csprojResolveAssemblyReference.cache

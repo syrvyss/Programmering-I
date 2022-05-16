@@ -1,0 +1,16 @@
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.exe
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.pdb
+d:\Desktop\H1_Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.exe
+d:\Desktop\H1_Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.pdb
+d:\Desktop\H1_Praktikopgaver\3. Beslutninger\Beslutninger\bin\Debug\Beslutninger.exe
+d:\Desktop\H1_Praktikopgaver\3. Beslutninger\Beslutninger\bin\Debug\Beslutninger.pdb
+d:\Desktop\H1_Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\ResolveAssemblyReference.cache
+H:\Arbejde\H1\Grundlæggende programmering med C#\Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.exe
+H:\Arbejde\H1\Grundlæggende programmering med C#\Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.pdb
+G:\Kurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\obj\Debug\Beslutninger.exe
+G:\Kurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\obj\Debug\Beslutninger.pdb
+G:\Kurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\bin\Debug\Beslutninger.exe
+G:\Kurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\bin\Debug\Beslutninger.pdb
+H:\Kurser\E-learningKurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\obj\Debug\Beslutninger.exe
+H:\Kurser\E-learningKurser\Grundlæggende programmering\7. Beslutninger\Attachments\PraktikOpgaver, Beslutninger\Beslutninger\obj\Debug\Beslutninger.pdb

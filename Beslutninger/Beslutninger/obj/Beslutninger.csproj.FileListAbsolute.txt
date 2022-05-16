@@ -1,0 +1,2 @@
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.exe
+H:\Arbejde\H1 2005\Grundlæggende programmering med C#\Praktikopgaver\3. Beslutninger\Beslutninger\obj\Debug\Beslutninger.pdb

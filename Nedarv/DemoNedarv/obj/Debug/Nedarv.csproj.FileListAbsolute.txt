@@ -1,0 +1,10 @@
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Nedarv\Nedarv\obj\Debug\ResolveAssemblyReference.cache
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Nedarv\Nedarv\bin\Debug\Nedarv.exe
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Nedarv\Nedarv\bin\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Nedarv\Nedarv\obj\Debug\Nedarv.exe
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Nedarv\Nedarv\obj\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Demokode, Nedarv\Nedarv\obj\Debug\Nedarv.exe
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Demokode, Nedarv\Nedarv\obj\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Demokode, Nedarv\Nedarv\bin\Debug\Nedarv.exe
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Demokode, Nedarv\Nedarv\bin\Debug\Nedarv.pdb
+G:\Kurser\Grundlæggende programmering\12. Nedarv\Attachments\Demokode, Nedarv\Nedarv\obj\Debug\ResolveAssemblyReference.cache

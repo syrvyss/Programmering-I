@@ -1,0 +1,7 @@
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\bin\Debug\Collections.exe.config
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\bin\Debug\Collections.exe
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\bin\Debug\Collections.pdb
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\obj\Debug\Collections Demo.csprojResolveAssemblyReference.cache
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\obj\Debug\Collections Demo.csproj.CoreCompileInputs.cache
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\obj\Debug\Collections.exe
+H:\Kurser\4. Grundlæggende programmering .NET-0\E-learning Grundlæggende programmering\Demokode, Collections\Collections\obj\Debug\Collections.pdb
