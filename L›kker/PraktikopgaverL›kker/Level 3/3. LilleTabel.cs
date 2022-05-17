@@ -14,6 +14,25 @@ namespace Loekker
 {
     class Program
     {
+        static void Main() {
+            Console.Write("Enter row num: ");
+            int row = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter column num: ");
+            int col = int.Parse(Console.ReadLine());
         
+            drawTable(row, col);
+        }
+
+        static void drawTable(int row, int col) {
+            for (int i = 0; i < row; i++) 
+            {
+                for (int k = 0; k < col; k++) 
+                {
+                    Console.Write("{0, 5}", (k+1) * (i+1));
+                }
+                Console.WriteLine("");
+            }
+        }
     }
 }

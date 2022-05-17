@@ -15,7 +15,37 @@ namespace Loekker
     {
         static void Main(string[] args)
         {   
-            
+            Console.WriteLine("Rolling random..");
+            int roll = Roll();
+
+            while(true) {
+                Console.Write("Guess number (1-10): ");
+                int guess = int.Parse(Console.ReadLine());
+
+                var a = guess switch {
+                    int n when (roll == n) => "You guessed it! Try again? (y/n)",
+                    int n when (roll < n) => "Too high, guess lower",
+                    int n when (roll > n) => "Too low, guess higher",
+                    _ => "..."
+                };
+
+                Console.WriteLine(a);
+
+                if (guess == roll && Console.ReadLine() == "y") {
+                    roll = Roll();
+                }
+                
+                else if (guess == roll && Console.ReadLine() == "n") {
+                    Console.WriteLine("Exiting program..");
+                    break;
+                }
+            }
+        }
+
+        static int Roll()
+        {
+            Random rnd = new Random();
+            return rnd.Next(1, 11);
         }
     }
 }
