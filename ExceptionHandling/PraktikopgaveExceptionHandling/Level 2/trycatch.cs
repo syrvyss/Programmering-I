@@ -10,21 +10,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Indtast venligst en måleværdi");
-        try
-        {
-            int værdi = Convert.ToInt32(Console.ReadLine());
+class Program {
+    static void Main() {
+        Console.Write("Write a value: ");
+        int amount = 0;
+
+        try {
+            amount = Convert.ToInt32(Console.ReadLine());
         }
-        catch (OverflowException e)
-        {
-            Console.WriteLine("Tallet var større end 2 000 000 000");
+        catch (OverflowException e) {
+            Console.WriteLine("The number was bigger than 2 000 000 000");
             Console.WriteLine(e.Message);
         }
 
-        Console.WriteLine("Måleværdien er: {0}", værdi);
+        catch (FormatException e) {
+            Console.WriteLine("Only for integers!");
+            Console.WriteLine(e.Message);
+        }
+
+        catch (Exception e) {
+            Console.WriteLine("Something went wrong!");
+            Console.WriteLine(e.Message);
+        }
+
+        Console.WriteLine("The amount is: {0}", amount);
     }
 }

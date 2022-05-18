@@ -21,6 +21,17 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        Car aygo = new Car();
+        aygo.LoadMileage(10000);
+        aygo.Drive1000(); // changes private mileage field which is stored in the class "Car", which is in the heap.
+        Console.WriteLine("Mileage: {0}", aygo.GetMileage());
     }
+}
+
+class Car
+{
+    int mileage = 0;
+    public void LoadMileage(int km) => this.mileage = km;
+    public void Drive1000() => this.mileage += 1000;
+    public int GetMileage() => this.mileage;
 }

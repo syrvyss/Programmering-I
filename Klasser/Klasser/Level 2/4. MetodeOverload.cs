@@ -15,6 +15,33 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        Car aygo = new Car();
+        aygo.LoadData(Color.Yellow, 1000, 100);
+        Console.WriteLine("Loaded Color.Yellow, 1000, 100: Result({0})", aygo.GetData());
+        
+        aygo.LoadData(Color.Black, 2000, 50);
+        Console.WriteLine("Loaded Color.Yellow, 1000, 100: Result({0})", aygo.GetData());
     }
+}
+
+public enum Color { Yellow, Black, Blue };
+
+class Car
+{
+    Color _carColor;
+    int _mileage = 0;
+    int _horsepower = 0;
+    public void LoadData(Color color, int mileage, int horsepower)
+    {
+        _carColor = color;
+        _mileage = mileage;
+        _horsepower = horsepower;
+    }
+    public void LoadData(Color color, int mileage)
+    {
+        _carColor = color;
+        _mileage = mileage;
+    }
+    public void LoadData(Color color) => _carColor = color;
+    public string GetData() => "" + _carColor + " " + _mileage + " " + _horsepower;
 }

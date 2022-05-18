@@ -13,10 +13,16 @@ class Program
 {
     static void Main()
     {
-        TextReader tr = File.OpenText("text.txt");
-        Console.WriteLine(tr.ReadToEnd());
-        tr.Close();
+        TextReader tr = null;
+        try {
+            tr = File.OpenText("text.txt");
+            Console.WriteLine(tr.ReadToEnd());
+        }
+        catch (Exception FileNotFoundException) {
+            Console.WriteLine("File not found.");
+        }
+        finally {
+            tr?.Close();
+        }
     }
 }
-
-

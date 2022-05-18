@@ -12,9 +12,28 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-class Program
-{
-    static void Main(string[] args)
-    {
+class Program{
+    static void Main(string[] args) {
+        Car aygo = new Car();
+        SportsCar ferrari = new SportsCar("red", 2020, true);
+        ferrari.Print();
+    }
+}
+
+class Car {
+    protected string _color;
+    protected int _year;
+}
+
+class SportsCar : Car {
+    bool _spoiler;
+    public SportsCar(string color, int year, bool spoiler) {
+        this._color = color;
+        this._year = year;
+        this._spoiler = spoiler;
+    }
+
+    public void Print() {
+        Console.WriteLine("Color: {0}, Year: {1}, Spoiler: {2}", this._color, this._year, this._spoiler);
     }
 }

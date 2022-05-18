@@ -16,6 +16,19 @@ class Program
 {
     static void Main(string[] args)
     {
+        BaseClass date = new BaseClass();
+        date.Date();
 
+        DerivedClass derivedDate = new DerivedClass();
+        derivedDate.Time();
+        derivedDate.Date();
     }
+}
+
+class BaseClass {
+    public void Date() => Console.WriteLine(DateTime.Today.ToShortDateString());
+}
+
+class DerivedClass : BaseClass {
+    public void Time() => Console.WriteLine(DateTime.Now.ToShortDateString());
 }

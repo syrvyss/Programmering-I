@@ -17,9 +17,26 @@ class Program
 {
     static void Main(string[] args)
     {
-        Bil minBil = new Bil("Sort", 120000, 130);
+        Bil minBil = new Bil("Sort", 120000, 130, false);
         Console.WriteLine(minBil.HentData());
 
+        /* WITHOUT STATIC
+        AutoVask autovask = new AutoVask();
+        autovask.VaskBil(minBil);
+        */
+
+        AutoVask.VaskBil(minBil);
+
+        Console.WriteLine(minBil.HentData());
+    }
+}
+
+class AutoVask 
+{
+    public static void VaskBil(Bil bil)
+    { 
+        Console.WriteLine("Bilen vaskes...");
+        bil.nyVasket = true;
     }
 }
 
@@ -28,16 +45,18 @@ class Bil
     string farve;
     int kmStand;
     int hk;
+    public bool nyVasket { get; set; }
 
-    public Bil(string f, int k, int h)
+    public Bil(string f, int k, int h, bool i)
     {
-        farve = f;
-        kmStand = k;
-        hk = h;
+        this.farve = f;
+        this.kmStand = k;
+        this.hk = h;
+        this.nyVasket = i;
     }
 
     public string HentData()
     {
-        return String.Format("Farve: {0} km stand: {1} HK: {2} Nyvasket: {3}", farve, kmStand, hk);
+        return String.Format("Farve: {0} km stand: {1} HK: {2} Nyvasket: {3}", farve, kmStand, hk, nyVasket);
     }
 }

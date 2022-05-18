@@ -13,7 +13,20 @@ class Program
 {
     static void Main()
     {
+        Console.Write("It is currently {0} and you have been arrested, do you know how fast you were going? (km): ", DateTime.Now);
+        int speed = int.Parse(Console.ReadLine());
+        
+        Console.Write("\nAnd for how long have you been doing that? (min): ");
+        int time = int.Parse(Console.ReadLine());
 
+        Car myCar = new Car();
+        Console.WriteLine("You have been going {0}km then!", myCar.Distance(speed, time));
     }
+
+    class Car
+    {
+        public double Distance(int speed, int time) => TimeSpan.FromMinutes(time).Multiply(speed).TotalHours;
+    }
+
 }
 
