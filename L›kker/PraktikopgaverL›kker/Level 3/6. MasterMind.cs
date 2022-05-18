@@ -18,7 +18,7 @@ namespace Loekker
     {
         static void Main(string[] args)
         {   
-            Console.Write("Guess the randomly generated number (5 numbers): ");
+            Console.Write("Guess the randomly generated number (5 numbers (1-6)): ");
             MasterMind mastermind = new MasterMind();
             for (int i = 0; i < 8; i++)
             {
@@ -36,7 +36,7 @@ namespace Loekker
 
     class MasterMind {
         private char[] _code;
-        private char[] _guess = {'x', 'x', 'x', 'x', 'x'}; 
+        private char[] _guess = {'x', 'x', 'x', 'x', 'x'};
 
         public MasterMind()
         {
@@ -45,7 +45,7 @@ namespace Loekker
             for (int i = 0; i < 5; i++)
                 str += rnd.Next(1, 7);
 
-            _code = str.ToCharArray(); 
+            this._code = str.ToCharArray(); 
         }
 
         public bool Guess(string num) {
@@ -53,29 +53,15 @@ namespace Loekker
                 return true;
             }
 
-            _guess = new char[] {'x', 'x', 'x', 'x', 'x'};
+            this._guess = new char[] {'x', 'x', 'x', 'x', 'x'};
 
-            string a = new string(_code);
-            Console.WriteLine("Code is {0}", a);
-            
-            _code
-                .Where((item, i) => item == num[i])
-                .Select((item, i) => this._guess[i] = '*');
-            
-            num
-                .Where((item, i) => num.Contains(_code[i]))
-                .Select((item, i) => this._guess[i] = 'o');
-
-            /*
-            for (int i = 0; i < num.Length; i++)
                 for (int k = 0; k < num.Length; k++)
                 {
-                    if (this._code[k] == num[i])
+                    if (this._code[k] == num[k])
                         this._guess[k] = '*';
-                    else if (_code.Contains(_guess[i]))
+                    else if (_code.Contains(num[k]))
                         this._guess[k] = 'o';
                 }
-            */
 
             return false;
         }
